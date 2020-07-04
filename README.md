@@ -11,10 +11,10 @@
 * https://github.com/Yuditskiy-o/1.1.Java-JDK-JRE-JVM-IntelliJ-IDEA/issues/3
 * https://github.com/Yuditskiy-o/1.1.Java-JDK-JRE-JVM-IntelliJ-IDEA/issues/4
 
+## Описание процесса тестирования
+
 В процессе тестирования использовались следующие артефакты:
 * https://docs.google.com/spreadsheets/d/1I8G1za7qDR37qwwxzLdr1xyuCu6EB_S34ZWpFuFQcq4/edit#gid=1181522986 — Чек-лист валидации ключей KeyValidator
-
-## Описание процесса тестирования
 
 В качестве тестовых данных использовались данные из репозитория [javaqa-homeworks/intro](https://github.com/netology-code/javaqa-homeworks/tree/master/intro):
 * https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md — Инструкция позволяет корректно установить Java для Window/MacOS/Linux, проблем не возникает (фактически — шаг №7 для Windows заполнен некорректно см. прикрепленный ...issues/1);
